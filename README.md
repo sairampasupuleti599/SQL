@@ -1,3 +1,1 @@
 # SQL
-
-mkdir Hackerrank
